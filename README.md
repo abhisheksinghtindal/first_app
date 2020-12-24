@@ -1,6 +1,6 @@
 # first_app
 
-A new welness project.
+A new wellness project.
 
 ## Getting Started
 
